@@ -2,7 +2,7 @@
 <span><h4 align="center">The Cloak of Invisibility for your texts</h4></span>
 
 <p align="justify">
-Text Cloak is a steganography technique implemented in python, to hide secrets inside text by encrypting the secret before cloaking it with special unicode invisible characters. 
+StegaCrypt is a steganography technique implemented in python, to hide secrets inside text by encrypting the secret before cloaking it with special unicode invisible characters. 
 It can be used to safely watermark strings, invisible scripts on webpages, texts on social media or for any other covert communication. Completely invisible! 
 <p>
 
