@@ -1,10 +1,3 @@
-<h1 align="center">
-  <br>
-  <span> :male_detective: Text Cloak :female_detective: </span>
-  <br>
-  
-  [![](https://img.shields.io/badge/Made_with-Python3-blue?style=for-the-badge&logo=python)](https://www.python.org "Python3")[![](https://img.shields.io/badge/Made_with-Flask-blue?style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/1.1.x/ "Flask")
-
 </h1>
 <span><h4 align="center">The Cloak of Invisibility for your texts</h4></span>
 
